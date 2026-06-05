@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<header class="cover">
+  {% if page.kicker %}<div class="kicker">{{ page.kicker }}</div>{% endif %}
+  <h1>{{ page.heading | default: page.title }}</h1>
+  {% if page.subtitle %}<div class="sub">{{ page.subtitle }}</div>{% endif %}
+</header>
+
+<section class="episodes">
+  {% for ep in site.data.podcast %}
+  <article class="episode">
+    <div class="video">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ ep.id }}"
+              title="{{ ep.title }}"
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen></iframe>
+    </div>
+    <h2>{{ ep.title }}</h2>
+    {% if ep.description %}<p>{{ ep.description }}</p>{% endif %}
+  </article>
+  {% endfor %}
+</section>
+
+<footer></footer>

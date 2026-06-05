@@ -1,0 +1,13 @@
+# Top-bar buttons. Edit labels/urls here.
+# Internal pages use a path (e.g. "/podcast/"); external sites use a full URL
+# (they open in a new tab); "#" is an inert placeholder.
+- name: Sobre mí
+  url: /
+# - name: Podcast
+#   url: /podcast/
+# - name: Noticias
+#   url: /noticias/
+# - name: Newsletter
+#   url: https://juanozaragoza.substack.com
+- name: Apuntes
+  url: https://apuntes.juanozaragoza.com

@@ -1,0 +1,16 @@
+# Episodios del podcast. Cada entrada embebe un video de YouTube.
+# `id` es el identificador del video: en una URL como
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ  ->  el id es  dQw4w9WgXcQ
+# (los ids de abajo son de ejemplo; reemplazalos por los tuyos).
+
+- id: dQw4w9WgXcQ
+  title: "Episodio 1 — El quinto tejido"
+  description: "Una introducción al problema central: por qué la cooperación humana necesita un sistema nuevo más allá del mercado y las jerarquías."
+
+- id: 9bZkp7q19f0
+  title: "Episodio 2 — Patrones de poder"
+  description: "Cómo evolucionan las jerarquías y qué nos dice eso sobre la macrohistoria de los sistemas económicos."
+
+- id: kJQP7kiw5Fk
+  title: "Episodio 3 — Las emociones como red"
+  description: "La visión redista de las emociones y su relación con las epidemias de malestar contemporáneas."

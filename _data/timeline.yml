@@ -1,0 +1,139 @@
+# Year-by-year timeline. Each entry has a `year`, a list of `intereses`
+# paragraphs (left column) and a list of `trayectoria` paragraphs (right column).
+# Each list item becomes one <p>. You can use inline HTML like <em>...</em>.
+
+- year: 2014
+  trayectoria:
+    - "Egresé del colegio San Andrés."
+    - "Obtuve el mejor promedio masculino en los exámenes IB (bachillerato internacional)."
+    - "Obtuve el premio al mejor rendimiento en Física."
+    - "Fui el presidente del <em>Student Council</em> más joven de la historia del colegio (cursando el penúltimo año)."
+  intereses:
+    - "Desde la adolescencia, entender la sociedad para transformarla orienta mi vida."
+    - "Encontraba que el marxismo tenía problemas críticos y me propuse buscar un modelo más adecuado."
+    - "Decidí estudiar filosofía por su generalidad y porque Marx se había formado en filosofía."
+
+- year: 2015
+  trayectoria:
+    - "Cursé el ciclo básico de Filosofía en la Universidad de Buenos Aires"
+    - "Dos canciones que escribí superaron el millón de reproducciones"
+    - "Mi banda obtuvo la segunda canción más viral del verano en Spotify"
+  intereses:
+    - "El marxismo entendía la determinación de la cultura por lo económico demasiado linealmente."
+    - "De ahí nacían sus problemas centrales."
+    - "Decidí estudiar psicología porque la relación cerebro-mente parecía importante para entender mejor esa relación."
+    - "Empecé a leer manuales de toda disciplina que pudiera ayudar a entender la sociedad."
+
+- year: 2016
+  trayectoria:
+    - "Cursaba dos carreras en paralelo, desde la mañana hasta la noche:"
+    - "El primer año de Psicología en la Universidad de Palermo"
+    - "El primer año de Filosofía en la Universidad de Buenos Aires"
+    - "Donde obtuve la nota máxima en todas las asignaturas."
+  intereses:
+    - "En psicología, me interesaban más los modelos computacionales que las observaciones concretas, por ser más extrapolables. Decidí cambiarme a la carrera de computación al año siguiente."
+    - "Ese año, aprender perspectivas científicas y críticas posmodernas al mismo tiempo me obligó a reflexionar profundamente sobre epistemología"
+
+- year: 2017
+  trayectoria:
+    - "Impulsé el grupo “Filosofía del Futuro” para trabajar interdisciplinariamente en problemas filosóficos de vanguardia."
+    - "La iniciativa fue bien recibida por compañeros talentosos (varios participantes asistirían después a universidades de élite global)"
+    - "Inicié la carrera de computación y continué estudiando filosofía, procurando mantener un rendimiento excelente en ambas carreras."
+  intereses:
+    - "Parecía imposible comprender los fundamentos de la sociedad sin interdisciplina"
+    - "Además, la carrera pasaba por alto problemas candentes (ligados a la IA, internet, información, bioingeniería, etc)"
+    - "Por eso formé un grupo interdisciplinario que supliera esa falta"
+    - "Como ejercicio, me propuse interpretar todos los temas de computación como si fueran corrientes e ideas filosóficas"
+
+- year: 2018
+  trayectoria:
+    - "Organicé el primer curso de Filosofía de la Inteligencia Artificial en mi facultad"
+    - "Participé en diversos congresos nacionales e internacionales de filosofía"
+    - "Continué estudiando filosofía y computación en paralelo"
+    - "Tuve una breve pero divertidísima incursión en el humor gráfico"
+  intereses:
+    - "Todavía consideraba que la mente era relevante para mi problema"
+    - "Me obsesionaban el “problema difícil de la conciencia”, y de qué se trata un modelo o una representación. Leí <em>GEB</em> y me maravilló, pero no me convenció."
+    - "Asistí a reuniones de grupos académicos sobre lógica, filosofía de la mente y filosofía de la tecnología, que no me satisficieron"
+    - "Sentía que, en general, se partía de fundamentos teóricos poco fértiles."
+
+- year: 2019
+  trayectoria:
+    - "Participé en la primera residencia de la red latinoamericana de tecnologías libres en Río Grande do Sul"
+    - "De regreso, impulsé el Proyecto Boid, un laboratorio de hardware libre en la facultad de ciencias exactas"
+    - "El proyecto fue declarado de interés cultural por la Ciudad de Buenos Aires y obtuvo la beca de Mecenazgo Cultural"
+    - "Filosofía del Futuro lanzó su blog"
+    - "Representé a la Facultad de Filosofía en el panel de estudiantes del laboratorio Citep sobre IA."
+  intereses:
+    - "Habitar espacios de development intelectual fuera de la academia fue muy formativo"
+    - "Encontré que el lenguaje de la teoría general de sistemas y los sistemas complejos era parte de lo que necesitaba"
+    - "Asistí a un curso de doctorado de biología sintética y a una materia introducción a la biología celular en la Facultad de Ciencias Naturales (UBA) y me encantó."
+
+- year: 2020
+  trayectoria:
+    - "Terminé de cursar computación en 4 años (una carrera de 6 años) estudiando filosofía en paralelo."
+    - "Armé una reedición virtual del curso de Filosofía de la Inteligencia Artificial, con participación de invitados expertos y miles de asistentes"
+    - "Dicté charlas de divulgación científica y filosófica para Instituto Baikal, Ekoparty, Di Tella y otros."
+    - "Tras avances importantes, la pandemia de Covid-19 frenó la apertura del laboratorio Boid"
+    - "Pausé la carrera de filosofía para no cursar el último año en forma virtual. Todavía no la retomé"
+  intereses:
+    - "En 2020 tuve un punto de inflexión, cuando un mentor me explicó que priorizar la excelencia académica puede entorpecer la búsqueda intelectual"
+    - "Hasta entonces, había tenido sólo dos 9s en filosofía y en computación. Me habían irritado porque buscaba un promedio perfecto."
+    - "Desde entonces, pasé a centrarme en mi búsqueda intelectual"
+    - "En 2020 anoté cómo algunas nociones computacionales permitían disolver dos incomodidades teóricas: el problema difícil de la conciencia y el antirrealismo radical.&nbsp;"
+    - "Nunca publiqué aquellas notas, pero fueron bases epistemológicas necesarias"
+
+- year: 2021
+  trayectoria:
+    - "Reorientamos el proyecto Boid para monitorear la ventilación de ambientes con sensores de CO2, por el contexto de emergencia sanitaria."
+    - "Compartí la experiencia en el ciclo de charlas “Ciencia para ventilar” organizado por el Ministerio de Ciencia y Tecnología y el Ministerio de Educación"
+    - "Empecé a trabajar part-time como redactor técnico para Faraday, una plataforma de seguimiento de ciberseguridad"
+  intereses:
+    - "Encontré que la clave para responder mis preguntas era el trabajo de Axelrod sobre la cooperación"
+    - "Empecé a escribir algunas ideas en dos libros inéditos"
+    - "En <em>Cordura 2100</em> organicé varios relatos que problematizaban los paradigmas marxista y liberal"
+    - "En <em>Neocinismo</em> organicé ideas sobre la utilidad de las emociones en la cooperación, contra la autoayuda tradicional"
+    - "Participé de un proyecto de construcción de tecnologías libres para monitoreo de suelos en una cooperativa agroecológica en Mendoza"
+
+- year: 2022
+  trayectoria:
+    - "Empecé a trabajar como redactor técnico para la startup Interview Query, plataforma para aprender ciencia de datos"
+  intereses:
+    - "Escribí algunos aprendizajes en el libro inédito <em>La revolución es una red</em>:&nbsp;"
+    - "1 - Las jerarquías emergen para permitir la cooperación en grupos grandes y generan la concentración de poder"
+    - "2 - Las jerarquías evolucionan según patrones que ayudan a explicar el presente y la historia de los sistemas económicos"
+
+- year: 2023
+  trayectoria:
+    - "Pasé a dirigir el área de marketing de Interview Query, en forma full-time"
+    - "Planificaba y supervisaba el desarrollo de funcionalidades del producto"
+    - "Elaboraba análisis de datos de tráfico y uso de la plataforma"
+    - "Guiaba y supervisaba la producción de cursos, textos técnicos y ejercicios de ciencia de datos"
+  intereses:
+    - "Aprendí que el trabajo de Axelrod sobre las emociones podía extenderse para comprender mejor a la cultura"
+    - "Observé que estas ideas podían usarse para diseñar una red social más amigable, experimento que ensayaría al año siguiente"
+
+- year: 2024
+  trayectoria:
+    - "Desarrollé Ronda, un experimento de red social para escritores, basado en descentralizar la atención"
+    - "Al principio creció rápido por boca-a-boca y fue muy bien recibida."
+    - "Sin embargo, participar requería demasiado esfuerzo y tuvo baja retención de usuarios"
+    - "La red social dejó de funcionar a fin de año"
+  intereses:
+    - "Redacté el grueso de mis ideas en libros más accesibles, cuyos borradores están disponibles"
+    - "En <em>Patrones</em> resumí cómo la evolución de las jerarquías permite comprender mejor la macrohistoria de los sistemas económicos"
+    - "En <em>Nodos</em> resumí cómo la visión redista de las emociones permite comprender mejor las epidemias de malestar emocional"
+    - "En <em>La reforestación social</em> propuse redes alternativas que apuntan a resolver grandes problemas sociales en forma emergente"
+    - "Trabajé en organizar las diversas ideas en un paradigma integral"
+
+- year: 2025
+  trayectoria:
+    - "Empecé a elaborar pruebas de concepto de sistemas de cooperación alternativos"
+    - "Dicté el curso <em>El paradigma de la red</em>, donde presenté integralmente un marco teórico para entender la sociedad basado en los tejidos de cooperación."
+    - "Redacté un primer borrador del ensayo <em>El quinto tejido</em> que resume mis aprendizajes centrales"
+  intereses:
+    - "Me centré en el dilema central:"
+    - "La cooperación humana se sostiene, en última instancia, en cuatro tipos de sistemas: reciprocidad, reconocimiento, mercado y jerarquías."
+    - "Hasta ahora, sólo el mercado y las jerarquías funcionan en grandes escalas.&nbsp;"
+    - "El mercado lleva al individualismo, mientras que las jerarquías pueden concentrar arbitrariamente el poder. Los grandes problemas de la actualidad nacen de este dilema central."
+    - "Es posible sembrar un nuevo sistema de cooperación que evite el dilema central."

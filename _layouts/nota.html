@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="nota">
+  <header class="nota-head">
+    <div class="kicker">Noticias</div>
+    <h1>{{ page.title }}</h1>
+    <div class="nota-date">{% include fecha-es.html date=page.date %}</div>
+  </header>
+  <div class="nota-body">
+    {{ content }}
+  </div>
+  <p class="nota-back"><a href="{{ '/noticias/' | relative_url }}">← Volver a Noticias</a></p>
+</article>
+
+<footer></footer>

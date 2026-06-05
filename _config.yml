@@ -1,0 +1,26 @@
+title: Juan Fernández Zaragoza
+description: Sobre mí — búsqueda y trayectoria
+lang: es
+
+# Build settings
+markdown: kramdown
+
+# Noticias = a blog-style collection. Each .md file in _noticias/ becomes a post.
+collections:
+  noticias:
+    output: true
+    permalink: /noticias/:title/
+
+defaults:
+  - scope:
+      type: noticias
+    values:
+      layout: nota
+
+# Files that should not be copied into the built site
+exclude:
+  - timeline_test_style.html
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

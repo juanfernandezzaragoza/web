@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<header class="cover">
+  {% if page.kicker %}<div class="kicker">{{ page.kicker }}</div>{% endif %}
+  <h1>{{ page.heading | default: page.title }}</h1>
+  {% if page.subtitle %}<div class="sub">{{ page.subtitle }}</div>{% endif %}
+</header>
+
+<section class="notas">
+  {% assign notas = site.noticias | sort: "date" | reverse %}
+  {% for nota in notas %}
+  <article class="nota-item">
+    <div class="nota-meta">{% include fecha-es.html date=nota.date %}</div>
+    <h2><a href="{{ nota.url | relative_url }}">{{ nota.title }}</a></h2>
+    {% if nota.summary %}
+    <p>{{ nota.summary }}</p>
+    {% else %}
+    <p>{{ nota.excerpt | strip_html | truncate: 200 }}</p>
+    {% endif %}
+    <a class="nota-more" href="{{ nota.url | relative_url }}">Leer más</a>
+  </article>
+  {% endfor %}
+</section>
+
+<footer></footer>

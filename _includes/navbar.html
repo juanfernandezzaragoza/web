@@ -1,0 +1,27 @@
+<nav class="topbar">
+  <div class="topbar-inner">
+    <ul class="nav-links">
+      {% for item in site.data.navigation %}
+        {% assign is_external = false %}
+        {% if item.url contains "://" %}{% assign is_external = true %}{% endif %}
+        {% assign is_placeholder = false %}
+        {% if item.url == "#" %}{% assign is_placeholder = true %}{% endif %}
+
+        {% assign active = false %}
+        {% if page.url == item.url %}
+          {% assign active = true %}
+        {% elsif is_external == false and is_placeholder == false and item.url != "/" and page.url contains item.url %}
+          {% assign active = true %}
+        {% endif %}
+
+      <li>
+        {%- if is_external or is_placeholder -%}
+        <a href="{{ item.url }}"{% if is_external %} target="_blank" rel="noopener"{% endif %} class="{% if active %}active{% endif %}">{{ item.name }}</a>
+        {%- else -%}
+        <a href="{{ item.url | relative_url }}" class="{% if active %}active{% endif %}">{{ item.name }}</a>
+        {%- endif -%}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
