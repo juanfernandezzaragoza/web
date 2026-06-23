@@ -5,8 +5,8 @@
   url: /
 # - name: Podcast
 #   url: /podcast/
-# - name: Noticias
-#   url: /noticias/
+- name: Noticias
+  url: /noticias/
 # - name: Newsletter
 #   url: https://juanozaragoza.substack.com
 - name: Apuntes
