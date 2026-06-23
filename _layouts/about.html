@@ -13,14 +13,14 @@ layout: default
 <section class="tl" id="tl">
   {% for item in site.data.timeline %}
   <div class="row">
-    <div class="col left">
-      <h3>Intereses</h3>
-      {% for p in item.intereses %}<p>{{ p }}</p>{% endfor %}
-    </div>
     <div class="year-node"><div class="yr">{{ item.year }}</div></div>
     <div class="col right">
       <h3>Trayectoria</h3>
       {% for p in item.trayectoria %}<p>{{ p }}</p>{% endfor %}
+    </div>
+    <div class="col left">
+      <h3>Intereses</h3>
+      {% for p in item.intereses %}<p>{{ p }}</p>{% endfor %}
     </div>
   </div>
   {% endfor %}

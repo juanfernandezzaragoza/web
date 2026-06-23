@@ -202,7 +202,15 @@ footer{
   .row{grid-template-columns:52px 1fr;gap:10px;margin-bottom:54px}
   .year-node{grid-column:1;align-items:flex-start}
   .year-node .yr{width:auto;padding:5px 10px;font-size:1.05rem}
-  .row::after{left:26px}
+  .row::after{display:none}
+  .col.left{position:relative}
+  .col.left::before{
+    content:"";position:absolute;
+    left:-40px;top:14px;
+    width:8px;height:8px;border-radius:50%;
+    background:var(--gold);box-shadow:0 0 0 4px var(--paper);
+    z-index:1;
+  }
   .col.left,.col.right{grid-column:2;text-align:left;padding:0 0 0 12px}
   .col.left{margin-bottom:22px}
 }
