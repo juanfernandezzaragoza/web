@@ -4,13 +4,13 @@
 
 - year: 2014
   trayectoria:
-    - "Egresé del colegio San Andrés."
+    - "Egresé del colegio <a href"https://es.wikipedia.org/wiki/Saint_Andrew%27s_Scots_School">San Andrés</a>."
     - "Obtuve el mejor promedio masculino en los exámenes IB (bachillerato internacional)."
     - "Obtuve el premio al mejor rendimiento en Física."
     - "Fui el presidente del <em>Student Council</em> más joven de la historia del colegio (cursando el penúltimo año)."
   intereses:
     - "Desde la adolescencia, entender la sociedad para transformarla orienta mi vida."
-    - "Encontraba que el marxismo tenía problemas críticos y me propuse buscar un modelo más adecuado."
+    - "Encontraba problemas críticos en el marxismo y quería encontrar un mejor modelo."
     - "Decidí estudiar filosofía por su generalidad y porque Marx se había formado en filosofía."
 
 - year: 2015
@@ -19,55 +19,51 @@
     - "Dos canciones que escribí superaron el millón de reproducciones"
     - "Mi banda obtuvo la segunda canción más viral del verano en Spotify"
   intereses:
-    - "El marxismo entendía la determinación de la cultura por lo económico demasiado linealmente."
-    - "De ahí nacían sus problemas centrales."
-    - "Decidí estudiar psicología porque la relación cerebro-mente parecía importante para entender mejor esa relación."
-    - "Empecé a leer manuales de toda disciplina que pudiera ayudar a entender la sociedad."
+    - "Encontraba demasiado lineal la relación economía-cultura en el marxismo."
+    - "Creía que sus problemas centrales nacían de ahí."
+    - "Decidí estudiar psicología porque la relación cerebro-mente parecía importante."
 
 - year: 2016
   trayectoria:
     - "Cursaba dos carreras en paralelo, desde la mañana hasta la noche:"
     - "El primer año de Psicología en la Universidad de Palermo"
-    - "El primer año de Filosofía en la Universidad de Buenos Aires"
-    - "Donde obtuve la nota máxima en todas las asignaturas."
+    - "El primer año de Filosofía en la Universidad de Buenos Aires,"
+    - "donde obtuve la nota máxima en todas las asignaturas."
   intereses:
-    - "En psicología, me interesaban más los modelos computacionales que las observaciones concretas, por ser más extrapolables. Decidí cambiarme a la carrera de computación al año siguiente."
-    - "Ese año, aprender perspectivas científicas y críticas posmodernas al mismo tiempo me obligó a reflexionar profundamente sobre epistemología"
+    - "Los modelos computacionales parecían lo más extrapolable de la psicología. Decidí pasarme a computación."
+    - "Estudiar perspectivas científicas y críticas posmodernas al mismo tiempo me obligó a pensar en epistemología"
 
 - year: 2017
   trayectoria:
-    - "Impulsé el grupo “Filosofía del Futuro” para trabajar interdisciplinariamente en problemas filosóficos de vanguardia."
-    - "La iniciativa fue bien recibida por compañeros talentosos (varios participantes asistirían después a universidades de élite global)"
-    - "Inicié la carrera de computación y continué estudiando filosofía, procurando mantener un rendimiento excelente en ambas carreras."
+    - "Impulsé el grupo interdisciplinario <a href="filosofiadelfuturo.com">Filosofía del Futuro</a>."
+    - "Varios participantes del grupo asistirían luego a universidades de élite global"
+    - "Mantuve un rendimiento excelente en filosofía y computación en paralelo."
   intereses:
-    - "Parecía imposible comprender los fundamentos de la sociedad sin interdisciplina"
-    - "Además, la carrera pasaba por alto problemas candentes (ligados a la IA, internet, información, bioingeniería, etc)"
-    - "Por eso formé un grupo interdisciplinario que supliera esa falta"
-    - "Como ejercicio, me propuse interpretar todos los temas de computación como si fueran corrientes e ideas filosóficas"
+    - "Entender la sociedad requería interdisciplina."
+    - "La carrera obviaba temas candentes (IA, información, bioingeniería, etc)"
+    - "Formé un grupo interdisciplinario para suplir esa falta"
 
 - year: 2018
   trayectoria:
-    - "Organicé el primer curso de Filosofía de la Inteligencia Artificial en mi facultad"
-    - "Participé en diversos congresos nacionales e internacionales de filosofía"
-    - "Continué estudiando filosofía y computación en paralelo"
-    - "Tuve una breve pero divertidísima incursión en el humor gráfico"
+    - "Organicé el primer curso de Filosofía de la IA en mi facultad"
+    - "Fui ponente en congresos nacionales e internacionales de filosofía"
+    - "Tuve una breve y divertidísima incursión en el humor gráfico"
   intereses:
-    - "Todavía consideraba que la mente era relevante para mi problema"
-    - "Me obsesionaban el “problema difícil de la conciencia”, y de qué se trata un modelo o una representación. Leí <em>GEB</em> y me maravilló, pero no me convenció."
-    - "Asistí a reuniones de grupos académicos sobre lógica, filosofía de la mente y filosofía de la tecnología, que no me satisficieron"
-    - "Sentía que, en general, se partía de fundamentos teóricos poco fértiles."
+    - "Todavía creía que la mente era crucial para mi problema"
+    - "El “problema difícil de la conciencia” me obsesionaba. <a href="https://es.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach:_un_eterno_y_gr%C3%A1cil_bucle">GEB</a> me maravilló pero no me convenció."
+    - "Participé brevemente en grupos académicos de lógica, filosofía de la mente y filosofía de la tecnología."
+    - "Buscaba fundamentos teóricos más convincentes."
 
 - year: 2019
   trayectoria:
-    - "Participé en la primera residencia de la red latinoamericana de tecnologías libres en Río Grande do Sul"
-    - "De regreso, impulsé el Proyecto Boid, un laboratorio de hardware libre en la facultad de ciencias exactas"
-    - "El proyecto fue declarado de interés cultural por la Ciudad de Buenos Aires y obtuvo la beca de Mecenazgo Cultural"
-    - "Filosofía del Futuro lanzó su blog"
-    - "Representé a la Facultad de Filosofía en el panel de estudiantes del laboratorio Citep sobre IA."
+    - "Participé en la primera residencia de <a href="https://cyted.org/web_redes.php?id_rede=136">REGOSH</a> en Río Grande do Sul"
+    - "Impulsé BOID, proyecto de laboratorio de hardware libre en Ciudad Universitaria (UBA)"
+    - "El proyecto se declaró de interés cultural por Ciudad de Buenos Aires. Obtuvo la beca de Mecenazgo Cultural de la Ciudad."
+    - "El grupo Filosofía del Futuro lanzó su blog"
+    - "Representé a la Facultad de Filosofía en el panel de estudiantes del laboratorio CITEP (UBA) sobre IA."
   intereses:
-    - "Habitar espacios de development intelectual fuera de la academia fue muy formativo"
-    - "Encontré que el lenguaje de la teoría general de sistemas y los sistemas complejos era parte de lo que necesitaba"
-    - "Asistí a un curso de doctorado de biología sintética y a una materia introducción a la biología celular en la Facultad de Ciencias Naturales (UBA) y me encantó."
+    - "El lenguaje de la TGS y los sistemas complejos eran los fundamentos que necesitaba"
+    - "Asistí a cursos de biología sintética y biología celular."
 
 - year: 2020
   trayectoria:
