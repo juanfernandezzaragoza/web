@@ -3,7 +3,7 @@ title: Curso "El paradigma de la red" disponible
 date: 2026-06-23
 summary: Un enfoque alternativo para entender la sociedad.
 ---
-Están disponibles las clases del curso <a href"https://www.youtube.com/watch?v=D5aFBnYKAGg&list=PLW9WMn8xJQsXcZ3EWS7wBlLqnniJtjidp&index=1">El paradigma de la red</a>.
+Están disponibles las clases del curso <a href="https://www.youtube.com/watch?v=D5aFBnYKAGg&list=PLW9WMn8xJQsXcZ3EWS7wBlLqnniJtjidp&index=1">El paradigma de la red</a>.
 
 Un paradigma en ocho clases:
 1. Qué es el networkismo

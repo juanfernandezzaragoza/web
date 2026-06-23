@@ -1,7 +1,7 @@
 ---
 title: Wiki de apuntes
 date: 2026-06-23
-summary: Voy a subir una entrada cada día.
+summary: Una nueva entrada cada día.
 ---
 
 Armé una <a href="https://apuntes.juanozaragoza.com">wiki</a> con apuntes. 
