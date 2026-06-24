@@ -10,9 +10,9 @@ Estudio los sistemas fundamentales de cooperación, porque creo que encierran la
 
 En 2026 pienso organizar y publicar todo lo que aprendí. Antes, escribí algunos adelantos en [filosofiadelfuturo.com](https://filosofiadelfuturo.com) y [txt.networkismo.com](https://txt.networkismo.com).
 
-Mi mejor presentación es un [ensayo]() sobre el problema más importante que quiero resolver.
+Mi mejor presentación es un [ensayo]({{ '/assets/ensayos/mi-ensayo.pdf' | relative_url }}) sobre el problema más importante que quiero resolver.
 
-[Leer el ensayo](#)
+[Leer el ensayo]({{ '/assets/ensayos/mi-ensayo.pdf' | relative_url }})
 {:.cta}
 
 Más abajo podés ver mi recorrido año a año.
