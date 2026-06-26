@@ -289,6 +289,38 @@ footer{
 }
 .nota-back a:hover{color:var(--ink)}
 
+/* ---------- Humor gráfico ---------- */
+.comics{
+  max-width:720px;
+  margin:0 auto;
+  padding:74px 0 110px;
+}
+.comics .comic{margin:0 0 70px}
+.comics .comic:last-child{margin-bottom:0}
+.comics .comic img{
+  display:block;
+  width:100%;
+  height:auto;
+  background:#fff;
+  padding:12px;                 /* paspartú: marco interior */
+  border:1px solid var(--rule);
+  border-radius:3px;
+  box-shadow:0 1px 0 #fff inset, 0 10px 28px rgba(33,29,23,.10);
+}
+/* intro de una sola línea, centrada */
+.comics-page header.cover .intro{
+  max-width:54ch;
+  text-align:center;
+}
+.comics-page header.cover .intro .lede{
+  font-style:normal;
+  color:var(--ink);
+  margin-bottom:0;
+}
+
 @media(max-width:760px){
   .episodes,.notas{padding-left:0;padding-right:0}
+  .comics{padding:54px 0 80px}
+  .comics .comic{margin-bottom:48px}
+  .comics .comic img{padding:8px}
 }

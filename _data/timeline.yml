@@ -44,7 +44,7 @@
   trayectoria:
     - "Organicé el primer curso de Filosofía de la IA en mi facultad, dictado junto a parcipantes de Filosofía del Futuro."
     - 'Fui ponente en congresos nacionales e internacionales de filosofía, como <a href="https://afhic.com/es/encuentros-anteriores/encuentro/simposios/#log">AFHIC</a>, <a href="https://www.afra.org.ar/wp-content/uploads/2017/09/PROGRAMA-AFRA-2017.pdf">AFRA</a> y <a href="https://sfu.org.uy/2021/wp-content/uploads/2019/01/Libro-de-resu%C3%ACmenes-IV-Congreso-SFU.pdf">SFU</a>.'
-    - "Tuve una breve y divertidísima incursión en el humor gráfico."
+    - 'Tuve una breve y divertidísima incursión en el <a href="/humor-grafico/">humor gráfico</a>.'
 
 - year: 2019
   intereses:
@@ -60,7 +60,7 @@
 - year: 2020
   intereses:
     - "Tuve un punto de inflexión cuando un profesor emérito me explicó que priorizar la excelencia académica podía entorpecer la búsqueda intelectual."
-    - "Hasta entonces tenía solo dos 9s en filosofía y computación por aspirar a un promedio perfecto. Desde entonces me enfoqué en el problema que me interesaba."
+    - "Hasta entonces tenía solo dos 9s en filosofía y computación por aspirar a un promedio perfecto. Pasé a enfocarme en el problema que me interesaba."
     - "Comprendí que la computación daba herramientas que disolvían el problema difícil de la conciencia y el antirrealismo radical."
   trayectoria:
     - "Terminé de cursar computación en 4 años (dura 6 años) estudiando filosofía en paralelo."
@@ -81,16 +81,14 @@
 
 - year: 2022
   intereses:
-    - "Escribí dos ideas centrales en el libro inédito <em>La revolución es una red</em>:"
-    - "1 - Las jerarquías permiten la cooperación en grupos grandes y concentran el poder"
-    - "2 - La evolución de las jerarquías ayuda a entender la historia de los sistemas económicos"
+    - "Documenté dos observaciones en el libro inédito <em>La revolución es una red</em>: Que actualmente necesitamos jerarquías para cooperar en grupos grandes, pero estas concentran el poder, y que las jerarquías evolucionan según patrones que ayudan a entender la historia de los sistemas económicos."
   trayectoria:
-    - "Empecé a trabajar como redactor técnico para la plataforma sobre ciencias de datos Interview Query"
+    - "Empecé a trabajar como redactor técnico para la plataforma sobre ciencias de datos Interview Query."
 
 - year: 2023
   intereses:
-    - "Los fundamentos de la cooperación ayudan a entender la cultura"
-    - "Decidí aplicar las ideas para diseñar una red social más amigable"
+    - "Aprendí que los fundamentos de la cooperación ayudan a entender la cultura y las emociones humanas."
+    - "Decidí aplicar algunas ideas para diseñar una red social más amigable, que implementaría al año siguiente."
   trayectoria:
     - "Pasé a dirigir el área de marketing de Interview Query."
     - "Analizaba datos de uso para planificar nuevas funcionalidades del producto"
@@ -99,25 +97,16 @@
 - year: 2024
   trayectoria:
     - "Desarrollé Ronda, una red social para escritores basada en descentralizar la atención"
-    - "Creció rápido por boca-a-boca y fue bien recibida."
-    - "Sin embargo, tuvo baja retención de usuarios. Creo que participar requería demasiado esfuerzo."
-    - "La red social dejó de funcionar a fin de año."
+    - "Creció rápido por boca-a-boca y fue bien recibida, pero tuvo baja retención de usuarios. Creo que participar requería demasiado esfuerzo. Dejó de funcionar a fin de año."
   intereses:
     - 'Redacté ideas en borradores <a href="https://txt.networkismo.com">disponibles</a>'
-    - "<em>Patrones</em> resume cómo la evolución de las jerarquías permite comprender mejor la macrohistoria de los sistemas económicos. Fue corregido y editado por Valentín Muro."
-    - "<em>Nodos</em> resume cómo la visión redista de las emociones permite comprender mejor las epidemias de malestar emocional"
-    - "<em>La reforestación social</em> proponía redes alternativas para resolver crisis sociales en forma emergente"
-    - "Trabajé en organizar las ideas en un paradigma integral."
+    - "<em>Patrones</em> resume cómo la evolución de las jerarquías permite comprender mejor la macrohistoria de los sistemas económicos. Fue corregido y editado por Valentín Muro. <em>Nodos</em> resume cómo la visión redista de las emociones permite comprender mejor las epidemias de malestar emocional. <em>La reforestación social</em> proponía redes alternativas para resolver crisis sociales en forma emergente"
+    - "Mientras redactaba, trabajé en organizar las ideas en un paradigma integral."
 
 - year: 2025
   trayectoria:
-    - "Elaboré pruebas de concepto de sistemas de cooperación alternativos"
-    - "Dicté el curso <em>El paradigma de la red</em>, sobre cómo los tejidos de cooperación permiten entender mejor la sociedad."
-    - "Redacté un primer borrador del ensayo <em>La Causa</em> que resume mis aprendizajes centrales."
+    - 'Redacté un primer borrador del ensayo <a href="/assets/ensayos/La_Causa.pdf">La Causa</a> que resume mis aprendizajes centrales.'
+    - 'Dicté el curso <a href="https://www.youtube.com/playlist?list=PLW9WMn8xJQsXcZ3EWS7wBlLqnniJtjidp">El paradigma de la red</a>, sobre cómo los tejidos de cooperación permiten entender mejor la sociedad.'
   intereses:
-    - "La economía tiene un dilema central:"
-    - "Hay cuatro sistemas básicos de cooperación: reciprocidad, reconocimiento, mercado y jerarquías."
-    - "Sólo el mercado y las jerarquías funcionan en grandes escalas."
-    - "El mercado promueve el individualismo mientras que las jerarquías concentran el poder."
-    - "Los grandes problemas de la actualidad nacen de este dilema central."
-    - "Es posible sembrar un nuevo sistema de cooperación que evite el dilema central."
+    - 'Comprendí que nuestros sistemas básicos de cooperación tienen un <a href="/assets/ensayos/La_Causa.pdf">problema fundamental</a> que puede resolverse.'
+    - "Desarrollé pruebas de concepto de sistemas de cooperación alternativos."
