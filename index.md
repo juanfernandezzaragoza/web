@@ -1,7 +1,6 @@
 ---
 layout: about
 title: Sobre mí
-kicker: Búsqueda y trayectoria
 subtitle: Juan Fernández Zaragoza
 permalink: /
 ---

@@ -3,110 +3,98 @@
 # Each list item becomes one <p>. You can use inline HTML like <em>...</em>.
 
 - year: 2014
-  trayectoria:
-    - 'Egresé del colegio <a href="https://es.wikipedia.org/wiki/Saint_Andrew%27s_Scots_School">San Andrés</a>.'
-    - "Obtuve el mejor promedio masculino en los exámenes IB (bachillerato internacional)."
-    - "Obtuve el premio al mejor rendimiento en Física."
-    - "Fui el presidente del <em>Student Council</em> más joven de la historia del colegio (cursando el penúltimo año)."
   intereses:
     - "Desde la adolescencia, entender la sociedad para transformarla orienta mi vida."
     - "Encontraba problemas críticos en el marxismo y quería encontrar un mejor modelo."
     - "Decidí estudiar filosofía por su generalidad y porque Marx se había formado en filosofía."
+  trayectoria:
+    - 'Egresé del colegio <a href="https://es.wikipedia.org/wiki/Saint_Andrew%27s_Scots_School">San Andrés</a>.'
+    - "Obtuve el mejor promedio masculino en los exámenes IB (bachillerato internacional) y el premio al mejor rendimiento en Física."
+    - "Fui presidente del <em>Student Council</em> del colegio."
 
 - year: 2015
-  trayectoria:
-    - "Cursé el ciclo básico de Filosofía en la Universidad de Buenos Aires"
-    - "Dos canciones que escribí superaron el millón de reproducciones"
-    - "Mi banda obtuvo la segunda canción más viral del verano en Spotify"
   intereses:
-    - "Encontraba demasiado lineal la relación economía-cultura en el marxismo."
-    - "Creía que sus problemas centrales nacían de ahí."
+    - "Encontraba demasiado lineal la relación economía-cultura en el marxismo. Creía que sus problemas centrales nacían de ahí."
     - "Decidí estudiar psicología porque la relación cerebro-mente parecía importante."
+  trayectoria:
+    - "Cursé el ciclo básico de Filosofía en la Universidad de Buenos Aires."
+    - "Incursioné en la música. Dos canciones que escribí superaron el millón de reproducciones y mi banda obtuvo la segunda canción más viral del verano en Spotify."
 
 - year: 2016
+  intereses:
+    - "Los modelos computacionales parecían lo más relevante de la psicología para mi búsqueda. Decidí pasarme a computación."
+    - "Estudiar perspectivas científicas al mismo tiempo que críticas posmodernas me obligó a reflexionar sobre epistemología."
   trayectoria:
     - "Cursaba dos carreras en paralelo, desde la mañana hasta la noche:"
-    - "El primer año de Psicología en la Universidad de Palermo"
-    - "El primer año de Filosofía en la Universidad de Buenos Aires,"
-    - "donde obtuve la nota máxima en todas las asignaturas."
-  intereses:
-    - "Los modelos computacionales parecían lo más extrapolable de la psicología. Decidí pasarme a computación."
-    - "Estudiar perspectivas científicas y críticas posmodernas al mismo tiempo me obligó a pensar en epistemología"
+    - "El primer año de Psicología en la Universidad de Palermo."
+    - "El primer año de Filosofía en la Universidad de Buenos Aires, donde obtuve la nota máxima en todas las asignaturas."
 
 - year: 2017
+  intereses:
+    - "La carrera de filosofía obviaba temas candentes (IA, información, bioingeniería, etc) y yo buscaba interdisciplina."
+    - "Faltaba un grupo interdisciplinario para suplir esa necesidad."
   trayectoria:
     - 'Impulsé el grupo interdisciplinario <a href="https://filosofiadelfuturo.com">Filosofía del Futuro</a>.'
-    - "Varios participantes del grupo asistirían luego a universidades de élite global"
+    - "El grupo contó con el apoyo de profesores reconocidos y nucleó a estudiantes destacados de diversas facultades (varios trabajarían después en universidades de élite global)."
     - "Mantuve un rendimiento excelente en filosofía y computación."
-  intereses:
-    - "Entender la sociedad requería interdisciplina."
-    - "La carrera obviaba temas candentes (IA, información, bioingeniería, etc)"
-    - "Formé un grupo interdisciplinario para suplir esa falta"
 
 - year: 2018
-  trayectoria:
-    - "Organicé el primer curso de Filosofía de la IA en mi facultad"
-    - "Fui ponente en congresos nacionales e internacionales de filosofía"
-    - "Tuve una breve y divertidísima incursión en el humor gráfico"
   intereses:
-    - "Todavía creía que la mente era crucial para mi problema"
-    - 'El “problema difícil de la conciencia” me obsesionaba. <a href="https://es.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach:_un_eterno_y_gr%C3%A1cil_bucle">GEB</a> me maravilló pero no me convenció.'
-    - "Participé brevemente en grupos académicos de lógica, filosofía de la mente y filosofía de la tecnología."
-    - "Buscaba fundamentos teóricos más convincentes."
+    - 'Todavía creía que la mente era crucial para mi problema, y me obsesionaba el llamado "problema difícil de la conciencia".'
+    - "Participé en grupos académicos de lógica, filosofía de la mente y filosofía de la tecnología, mientras buscaba fundamentos teóricos más convincentes."
+  trayectoria:
+    - "Organicé el primer curso de Filosofía de la IA en mi facultad."
+    - 'Fui ponente en congresos nacionales e internacionales de filosofía, como <a href="https://afhic.com/es/encuentros-anteriores/encuentro/simposios/#log">AFHIC</a>, <a href="https://www.afra.org.ar/wp-content/uploads/2017/09/PROGRAMA-AFRA-2017.pdf">AFRA</a> y <a href="https://sfu.org.uy/2021/wp-content/uploads/2019/01/Libro-de-resu%C3%ACmenes-IV-Congreso-SFU.pdf">SFU</a>.'
+    - "Tuve una breve y divertidísima incursión en el humor gráfico."
 
 - year: 2019
-  trayectoria:
-    - 'Participé en la primera residencia de <a href="https://cyted.org/web_redes.php?id_rede=136">REGOSH</a> en Río Grande do Sul'
-    - "Impulsé BOID, proyecto de laboratorio de hardware libre en Ciudad Universitaria (UBA)"
-    - "El proyecto se declaró de interés cultural por Ciudad de Buenos Aires. Obtuvo la beca de Mecenazgo Cultural de la Ciudad."
-    - 'Filosofía del Futuro lanzó su <a href="https://filosofiadelfuturo.com">blog</a>'
-    - "Representé a la Facultad de Filosofía en el panel de estudiantes del laboratorio CITEP (UBA) sobre IA."
   intereses:
     - "Encontré los campos más afines a mis intereses."
-    - 'La <a href="https://es.wikipedia.org/wiki/Teor%C3%ADa_de_sistemas">TGS</a> y los sistemas complejos me dieron el lenguaje que buscaba.'
-    - "Asistí a cursos de biología sintética y biología celular."
+    - 'Por un lado, la teoría general de sistemas y los sistemas complejos me dieron el lenguaje epistemológico que necesitaba. Por otro lado, empecé a investigar sobre fenómenos emergentes y vida artificial.'
+    - 'Asistí al curso de posgrado "Biología Sintética" y a la materia "Fundamentos de biología molecular y fisiología celular" en FCEN (UBA).'
+  trayectoria:
+    - 'Participé en la primera residencia de <a href="https://cyted.org/web_redes.php?id_rede=136">REGOSH</a> en Río Grande do Sul.'
+    - 'Impulsé BOID, proyecto de laboratorio de hardware libre en Ciudad Universitaria (UBA), que <a href="https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MCGC-MCGC-3525-20-ANX-1.pdf">obtuvo la beca de Mecenazgo Cultural de la Ciudad</a> y fue declarado de interés cultural por Ciudad de Buenos Aires.'
+    - 'Representé a la Facultad de Filosofía en el panel de estudiantes del <a href="https://sites.google.com/view/uba-citep/formacion/citep-lab">CITEP lab</a> (UBA) sobre IA.'
+    - 'Filosofía del Futuro lanzó su <a href="https://filosofiadelfuturo.com">blog</a>.'
 
 - year: 2020
+  intereses:
+    - "Tuve un punto de inflexión cuando un profesor emérito me explicó que priorizar la excelencia académica podía entorpecer la búsqueda intelectual. Hasta entonces, había obtenido solo dos 9s en filosofía y computación mientras apuntaba a un promedio perfecto."
+    - "Pasé a centrarme en el problema que me interesaba y comprendí que la computación disolvía el problema difícil de la conciencia y el antirrealismo radical."
   trayectoria:
     - "Terminé de cursar computación en 4 años (dura 6 años) estudiando filosofía en paralelo."
     - 'Organicé un <a href="https://www.youtube.com/watch?v=znOxRjARPus&list=PLW9WMn8xJQsWoYJRHr2s7xrU1SvGkruXb&index=1">curso virtual</a> de Filosofía de la Inteligencia Artificial. Participaron invitados expertos y miles de asistentes'
-    - "Dicté charlas de divulgación para Instituto Baikal, Ekoparty, Di Tella y otros."
-    - "La pandemia de Covid-19 detuvo el laboratorio Boid"
-    - "Pausé filosofía para no recibirme a distancia. No retomé la carrera"
-  intereses:
-    - "Un profesor emérito me explicó que priorizar la excelencia académica entorpece la búsqueda intelectual"
-    - "Hasta entonces tenía solo dos 9s en filosofía y en computación. Me irritaban porque buscaba un promedio perfecto."
-    - "Pasé a centrarme en el problema que me interesaba."
-    - "Entendí que la computación disolvía el problema difícil de la conciencia y el antirrealismo radical."
+    - 'Dicté charlas de divulgación para <a href="https://www.youtube.com/watch?v=PJSwXGHq5uE">Ekoparty</a>, <a href="https://www.utdt.edu/ver_novedad.php?id_novedad=4191&id_item_menu=32233">Di Tella</a> e  <a href="https://www.elbaikal.com/neurociencia-y-la-creacion-de-calamares-transparentes/">Instituto Baikal</a>, donde además presentaba semanalmente en el programa de <a href="https://institutobaikal.com/frontera-de-la-ciencia-y-la-tecnologia-2020/">Frontera de la ciencia y la tecnología</a>.'
 
 - year: 2021
-  trayectoria:
-    - "Reorientamos el proyecto Boid para monitorear ventilación con sensores de CO2 por el contexto de emergencia sanitaria."
-    - 'Compartí la experiencia en el ciclo de charlas "Ciencia para ventilar" organizado por el Ministerio de Ciencia y Tecnología y el Ministerio de Educación'
-    - "Empecé a trabajar part-time como redactor técnico para Faraday, empresa de ciberseguridad"
   intereses:
     - 'Encontré la clave para mis preguntas en el trabajo de <a href="https://es.wikipedia.org/wiki/Robert_Axelrod">Axelrod</a> sobre cooperación'
     - "Documenté ideas en dos libros inéditos"
     - "<em>Cordura 2100</em> incluía relatos para problematizar los paradigmas marxista y liberal"
     - '<em>Neocinismo</em> analizaba las emociones "negativas" para la cooperación, contra la autoayuda tradicional'
     - "Participé en un proyecto de tecnologías libres para monitoreo de suelos en una cooperativa agroecológica en Mendoza."
+  trayectoria:
+    - "Reorientamos el proyecto Boid para monitorear ventilación con sensores de CO2 por el contexto de emergencia sanitaria y porque la pandemia no permitió construir el laboratorio."
+    - 'Compartí la experiencia en el ciclo de charlas <a href="https://web.archive.org/web/20230605035403/https://www.argentina.gob.ar/noticias/ciencia-para-ventilar">Ciencia para ventilar</a> organizado por los Ministerios nacionales de Ciencia y Tecnología y de Educación'
+    - "Empecé a trabajar part-time como redactor técnico para Faraday, empresa de ciberseguridad"
 
 - year: 2022
-  trayectoria:
-    - "Empecé a trabajar como redactor técnico para la plataforma sobre ciencias de datos Interview Query"
   intereses:
     - "Escribí dos ideas centrales en el libro inédito <em>La revolución es una red</em>:"
     - "1 - Las jerarquías permiten la cooperación en grupos grandes y concentran el poder"
     - "2 - La evolución de las jerarquías ayuda a entender la historia de los sistemas económicos"
+  trayectoria:
+    - "Empecé a trabajar como redactor técnico para la plataforma sobre ciencias de datos Interview Query"
 
 - year: 2023
+  intereses:
+    - "Los fundamentos de la cooperación ayudan a entender la cultura"
+    - "Decidí aplicar las ideas para diseñar una red social más amigable"
   trayectoria:
     - "Pasé a dirigir el área de marketing de Interview Query."
     - "Analizaba datos de uso para planificar nuevas funcionalidades del producto"
     - "Supervisaba cursos y materiales de ciencias de datos"
-  intereses:
-    - "Los fundamentos de la cooperación ayudan a entender la cultura"
-    - "Decidí aplicar las ideas para diseñar una red social más amigable"
 
 - year: 2024
   trayectoria:
